@@ -34,4 +34,4 @@ The main goal of this project was to understand:
   
 ## Author
 Iqra Khatoon  
-Aspiring Full-Stack (MERN) Developer
+Aspiring Full-Stack Web Developer  (MERN) 
