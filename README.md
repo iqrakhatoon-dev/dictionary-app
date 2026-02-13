@@ -2,6 +2,10 @@
 My Dictionary is a simple web-based dictionary application created using HTML, CSS, and JavaScript.  
 It allows users to search for English words and view their meanings, examples, synonyms, and antonyms using a dictionary API.
 
+## Project preview
+<img width="1225" height="1020" alt="My-Dictionary" src="https://github.com/user-attachments/assets/36077448-5d30-44b3-a7ba-8f688d11ed83" />
+
+
 This project was built to practice JavaScript API handling and DOM manipulation.
 
 ## Features
